@@ -1,5 +1,4 @@
-## A mobile developer (Android, ReactNative)
-## Currently learning Flutter and working as a ReactNative developer 
+## A mobile developer (Android, ReactNative) <br> Currently learning Flutter and working as a ReactNative developer 
 
 ### Contact me
                   
@@ -42,7 +41,9 @@
   
   #### Android/Kotlin
   
-  #### TypeScript/ReactNaitve
+  #### ReactNaitve/TypeScript
+  
+  #### NodeJs/JavaScript
 
 ### Github Starts
 
