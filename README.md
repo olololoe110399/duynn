@@ -1,3 +1,7 @@
+<p align="center">
+  <img src='./wolf.jpeg' width='100%"'>
+</p>
+
 ## A mobile developer (Android, ReactNative) <br> Currently learning Flutter and working as a ReactNative developer 
 
 ### Contact me
