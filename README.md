@@ -1,4 +1,4 @@
-## A mobile developer (Android, ReactNative, NodeJS), currently learning Flutter and working as a Android developer 
+## A mobile developer (Android, ReactNative), currently learning Flutter and working as a Android developer 
 
 ### Contact me
                   
