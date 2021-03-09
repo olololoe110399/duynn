@@ -4,6 +4,7 @@
                   
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duynn100198)
 [![Twitter](https://img.shields.io/badge/skype-%231DA1F2.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/u1zLVVbt5wGO)
+[![Gmail](https://img.shields.io/badge/gmail-red?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=duynn1001998@gmail.com&su=SUBJECT&body=BODY&tf=cm)
 
 ### Skills
 
@@ -11,18 +12,15 @@
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")]()
 [![ReactNative](https://img.shields.io/badge/reactnative-%233498DB.svg?&style=for-the-badge&logo=react&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/typeScript-%231DA1F2.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
-[![NodeJS](https://img.shields.io/badge/nodejs-brightgreen.svg?&style=for-the-badge&logo=node.js&logoColor=white)]()
+[![NodeJS](https://img.shields.io/badge/nodejs-brightgreen?&style=for-the-badge&logo=node.js&logoColor=white)]()
 
 ### Hello visitors
 
 <p align="center">
-  <code><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
-  <img src='https://www.kotlindevelopment.com/assets/img/kotlin-development-logo.svg?v=bcf07ce317' width='72"'>
-  <img src='https://user-images.githubusercontent.com/10064416/53419311-eb4eb080-39d9-11e9-9221-68b7a739f425.jpg' width='80"'>
-  <img src='https://github.com/hoc081098/hoc081098/raw/master/jetpack2.png' width='80"'>
-  </p>
-  
-</code>
+  <code>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
+  </code>
+</p>
 
 <p align="center">
    <code>Visitor count</code>
@@ -44,7 +42,7 @@
   
   #### TypeScript/ReactNaitve
 
-### Github Stats
+### Github Starts
 
 **Github profile summary** <a href="https://profile-summary-for-github.com/user/olololoe110399">https://profile-summary-for-github.com/user/olololoe110399</a>
 
