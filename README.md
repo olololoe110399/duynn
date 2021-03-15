@@ -39,7 +39,7 @@
   
   ### Resume and blog
   
-  - [My CV](https://cv.viblo.asia/preview/b6cf3584-6d26-3e91-b671-56ab360eb05e).
+  - [My CV](https://www.topcv.vn/xem-cv/4d94320f7f2ca3d9d7041fdf9a406e38).
   
   ### Libraries and packages (Android/Kotlin, ReactNative/TypeScript and NodeJs/JavaScript)
   
@@ -53,8 +53,8 @@
 
 **Github profile summary** <a href="https://profile-summary-for-github.com/user/olololoe110399">https://profile-summary-for-github.com/user/olololoe110399</a>
 
-[![olololoe110399's github stats](https://github-readme-stats.vercel.app/api?username=olololoe110399&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800)](https://github.com/hoc081098)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoc081098&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/olololoe110399)
+[![olololoe110399's github stats](https://github-readme-stats.vercel.app/api?username=olololoe110399&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800)](https://github.com/olololoe110399)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olololoe110399&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/olololoe110399)
 
 ### Open Source Projects
 
