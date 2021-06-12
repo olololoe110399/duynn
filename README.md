@@ -39,7 +39,7 @@
   
   ### Resume and blog
   
-  - [My CV](https://www.topcv.vn/xem-cv/4d94320f7f2ca3d9d7041fdf9a406e38).
+  - [My CV](https://www.topcv.vn/xem-cv/VVUBUQILBVUOBQsGV1ZQCwIBA1cCVQADXVhSUg6e38).
   
   ### Libraries and packages (Android/Kotlin, ReactNative/TypeScript and NodeJs/JavaScript)
   
