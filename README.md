@@ -44,18 +44,9 @@
   
   - [My CV](https://www.topcv.vn/xem-cv/VVUBUQILBVUOBQsGV1ZQCwIBA1cCVQADXVhSUg6e38).
   - [Facebook](https://www.topcv.vn/xem-cv/VVUBUQILBVUOBQsGV1ZQCwIBA1cCVQADXVhSUg6e38).
-  
-  ### Libraries and packages (Android/Kotlin, ReactNative/TypeScript and NodeJs/JavaScript)
-  
-  #### Android/Kotlin
-  
-  #### ReactNaitve/TypeScript
-  
-  #### NodeJs/JavaScript
+
 
 ### Github Starts
-
-
 
 **Github profile summary** <a href="https://profile-summary-for-github.com/user/olololoe110399">https://profile-summary-for-github.com/user/olololoe110399</a>
 
@@ -68,6 +59,8 @@
 
 ### Open Source Projects
 
+#### More repositories at [VTNPlusD](https://github.com/VTNPlusD)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VTNPlusD&repo=MVI-Arrow-Coroutines-Flow&theme=vue)](https://github.com/VTNPlusD/MVI-Arrow-Coroutines-Flow)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VTNPlusD&repo=WeatherApp&theme=vue)](https://github.com/VTNPlusD/WeatherApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VTNPlusD&repo=Clean-Weather-App&theme=vue)](https://github.com/VTNPlusD/Clean-Weather-App)
