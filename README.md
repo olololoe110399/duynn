@@ -68,10 +68,6 @@
 
 ### Open Source Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olololoe110399&repo=MVI-Arrow-Coroutines-Flow&theme=vue)](https://github.com/olololoe110399/MVI-Arrow-Coroutines-Flow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VTNPlusD&repo=MVI-Arrow-Coroutines-Flow&theme=vue)](https://github.com/VTNPlusD/MVI-Arrow-Coroutines-Flow)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olololoe110399&repo=WeatherApp&theme=vue)](https://github.com/olololoe110399/WeatherApp)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olololoe110399&repo=react-native-wheel-picker&theme=vue)](https://github.com/olololoe110399/react-native-wheel-picke)
-
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VTNPlusD&repo=WeatherApp&theme=vue)](https://github.com/VTNPlusD/WeatherApp)
