@@ -17,6 +17,9 @@
 [![ReactNative](https://img.shields.io/badge/reactnative-%233498DB.svg?&style=for-the-badge&logo=react&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/typeScript-%231DA1F2.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/nodejs-brightgreen?&style=for-the-badge&logo=node.js&logoColor=white)]()
+[![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)](https://github.com/ReactiveX/rxdart)
+[![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/disposebag)
 
 ### Hello visitors
 
@@ -40,6 +43,7 @@
   ### Resume and blog
   
   - [My CV](https://www.topcv.vn/xem-cv/VVUBUQILBVUOBQsGV1ZQCwIBA1cCVQADXVhSUg6e38).
+  - [Facebook](https://www.topcv.vn/xem-cv/VVUBUQILBVUOBQsGV1ZQCwIBA1cCVQADXVhSUg6e38).
   
   ### Libraries and packages (Android/Kotlin, ReactNative/TypeScript and NodeJs/JavaScript)
   
@@ -51,15 +55,23 @@
 
 ### Github Starts
 
+
+
 **Github profile summary** <a href="https://profile-summary-for-github.com/user/olololoe110399">https://profile-summary-for-github.com/user/olololoe110399</a>
 
-[![olololoe110399's github stats](https://github-readme-stats.vercel.app/api?username=olololoe110399&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800)](https://github.com/olololoe110399)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=olololoe110399" alt="olololoe110399" /></p>
+
+
+[![olololoe110399's github stats](https://github-readme-stats.vercel.app/api?username=olololoe110399&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/olololoe110399)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olololoe110399&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/olololoe110399)
+[![olololoe110399's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olololoe110399&layout=compact&bg_color=ffffff)](https://github.com/olololoe110399)
 
 ### Open Source Projects
 
-<a href="https://github.com/VTNPlusD/react-native-wheel-picker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=VTNPlusD&repo=react-native-wheel-picker&bg_color=ffffff" height="148" width="399"/>
-</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olololoe110399&repo=MVI-Arrow-Coroutines-Flow&theme=vue)](https://github.com/olololoe110399/MVI-Arrow-Coroutines-Flow)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olololoe110399&repo=WeatherApp&theme=vue)](https://github.com/olololoe110399/WeatherApp)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=olololoe110399&repo=react-native-wheel-picker&theme=vue)](https://github.com/olololoe110399/react-native-wheel-picke)
 
 
