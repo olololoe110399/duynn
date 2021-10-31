@@ -42,7 +42,7 @@
   
   ### Resume and blog
   
-  - [My CV](https://www.topcv.vn/xem-cv/VVUBUQILBVUOBQsGV1ZQCwIBA1cCVQADXVhSUg6e38).
+  - [My CV](https://drive.google.com/file/d/1wfjpavDQ3-Eii_IrO0_Bjx3-6xLPwqbq/view?usp=sharing).
   - [Facebook](https://www.topcv.vn/xem-cv/VVUBUQILBVUOBQsGV1ZQCwIBA1cCVQADXVhSUg6e38).
 
 
