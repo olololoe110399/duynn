@@ -61,6 +61,6 @@
 
 #### More repositories at [varum-techno](https://github.com/varum-techno)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=varum-techno&repo=MVI-Arrow-Coroutines-Flow&theme=vue)](https://github.com/VTNPlusD/MVI-Arrow-Coroutines-Flow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=varum-org&repo=MVI-Arrow-Coroutines-Flow&theme=vue)](https://github.com/varum-org/MVI-Arrow-Coroutines-Flow)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=varum-techno&repo=Clean-Weather-App&theme=vue)](https://github.com/VTNPlusD/Clean-Weather-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=varum-org&repo=Clean-Weather-App&theme=vue)](https://github.com/varum-org/Clean-Weather-App)
