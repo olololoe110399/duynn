@@ -2,7 +2,7 @@
   <img src='/Lofi%20Coder.png' width='100%"'>
 </p>
 
-## A mobile developer (Android, ReactNative, Flutter)
+## A Fullstack developer (Software Engineer | React/NextJS/VueJS | Node/NestJS | Python/AI/ML | Mobile | AWS, GCP 🚀)
 
 ### Contact me
                   
