@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='./wolf.jpeg' width='100%"'>
+  <img src='/Lofi%20Coder.png' width='100%"'>
 </p>
 
 ## A mobile developer (Android, ReactNative, Flutter)
